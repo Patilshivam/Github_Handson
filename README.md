@@ -21,3 +21,8 @@ Git commit added by Shivam @06:07 PM
 git branch //Shows all the branch with the active one
 git checkout -b feature_2506 // Create the new branch and mark the same as default
 ```
+
+Git commit added by Shivam @06:13 PM
+```
+>> git diff
+```
