@@ -26,3 +26,8 @@ Git commit added by Shivam @06:13 PM
 ```
 >> git diff
 ```
+
+Git Commit added by Ram @06:11 PM
+```
+git log
+``
